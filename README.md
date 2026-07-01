@@ -16,4 +16,4 @@ Insights for emergency resource allocation
 
 
  Tech Stack:
-Python · Scikit-learn · TensorFlow/Keras · NumPy · Matplotlib · GeoPandas
+Python · Scikit-learn · TensorFlow/Keras · NumPy · Matplotlib · GeoPandas . pyTorch
