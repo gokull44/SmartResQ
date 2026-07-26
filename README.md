@@ -44,11 +44,6 @@ SmartResQ AI is an AI-powered emergency response platform that leverages Machine
 
 ---
 
-## 📸 Screenshots
-
-*Coming Soon*
-
----
 
 ## ⚙️ Installation
 
@@ -63,7 +58,3 @@ npm run dev
 ```
 
 ---
-
-## 📜 License
-
-MIT License
