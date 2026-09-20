@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="SmartResQ AI Banner">
-</p>
+
 
 <h1 align="center">SmartResQ AI</h1>
 
